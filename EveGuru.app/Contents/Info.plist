@@ -14,7 +14,7 @@
 	<string>EveGuru</string>
 	<!-- https://developer.apple.com/documentation/bundleresources/bundle-configuration#Bundle-version -->
 	<key>CFBundleVersion</key>
-	<string>0.0.1</string>
+	<string>0.0.2</string>
 	<!-- https://developer.apple.com/documentation/bundleresources/user-interface#Icons -->
 	<key>CFBundleIconFile</key>
 	<string>EveGuru.icns</string>
