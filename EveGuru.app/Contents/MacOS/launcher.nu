@@ -81,6 +81,7 @@ def main [] {
   } else {
     log info 'Installing the latest stable version'
     install $RELEASE_CHANNEL.stable
+    ^nu ($BUNDLE_DIR + '/Contents/MacOS/migrate.nu')
   }
 
   log info 'Launching'
